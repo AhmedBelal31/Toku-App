@@ -4,13 +4,4 @@ A new Flutter project.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Our application is a user-friendly tool for learning the basics of the Japanese language. It covers numbers, family members, colors, and common phrases, all translated into Japanese. The app also provides audio recordings spoken by native Japanese speakers to help users improve their pronunciation. It's a convenient way to learn and practice essential Japanese language skills.
