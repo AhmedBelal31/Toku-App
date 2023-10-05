@@ -1,6 +1,6 @@
 # toku_app
 
-A new Flutter project.
+"Japanese Language Basics: Learn Numbers, Family, Colors, and Phrases"
 
 ## Getting Started
 
